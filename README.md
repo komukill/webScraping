@@ -1,4 +1,4 @@
-#Web Scraping using Beautiful Soup
+# Web Scraping using Beautiful Soup
 
 ## Hacker News Scraping
 Scrape top 30 news in [Hacker News](https://news.ycombinator.com) using Beautiful Soup & requests 
