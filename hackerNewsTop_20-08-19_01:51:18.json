@@ -1,0 +1,122 @@
+{
+    "1": {
+        "news": "I Miss Microsoft Encarta",
+        "link": "https://www.hanselman.com/blog/IMissMicrosoftEncarta.aspx"
+    },
+    "2": {
+        "news": "Cerebras Systems unveils a record 1.2T transistor chip for AI",
+        "link": "https://venturebeat.com/2019/08/19/cerebras-systems-unveils-a-record-1-2-trillion-transistor-chip-for-ai/"
+    },
+    "3": {
+        "news": "How Rust optimizes async/await",
+        "link": "https://tmandry.gitlab.io/blog/posts/optimizing-await-1/"
+    },
+    "4": {
+        "news": "Performance Matters",
+        "link": "https://www.hillelwayne.com/post/performance-matters/"
+    },
+    "5": {
+        "news": "OpenDrop: An Open Source AirDrop Implementation",
+        "link": "https://github.com/seemoo-lab/opendrop"
+    },
+    "6": {
+        "news": "Statement on the Purpose of a Corporation",
+        "link": "https://www.businessroundtable.org/business-roundtable-redefines-the-purpose-of-a-corporation-to-promote-an-economy-that-serves-all-americans"
+    },
+    "7": {
+        "news": "SharpScript",
+        "link": "https://sharpscript.net"
+    },
+    "8": {
+        "news": "Show HN: A little web app for playing around with colors",
+        "link": "https://color.clss.hk/"
+    },
+    "9": {
+        "news": "Every productivity thought I've ever had, as concisely as possible",
+        "link": "https://guzey.com/productivity/"
+    },
+    "10": {
+        "news": "Wireless Carrier Throttling of Online Video Is Pervasive: Study",
+        "link": "https://www.bloomberg.com/news/articles/2019-08-19/wireless-carrier-throttling-of-online-video-is-pervasive-study"
+    },
+    "11": {
+        "news": "Why Did China Just Devalue the Yuan? How Trade Works with Free-Floating Currency",
+        "link": "https://www.cassandracapital.net/post/why-did-china-just-devalue-the-yuan"
+    },
+    "12": {
+        "news": "Drinking fluoridated water during pregnancy may lower IQ in sons",
+        "link": "https://www.sciencemag.org/news/2019/08/drinking-fluoridated-water-during-pregnancy-may-lower-iq-sons-controversial-study-says"
+    },
+    "13": {
+        "news": "A Bid to Maintain One of the World\u2019s Oldest Culinary Traditions",
+        "link": "https://www.nytimes.com/2019/05/08/t-magazine/parsi-food.html"
+    },
+    "14": {
+        "news": "Rules for Intuitive UX",
+        "link": "https://learnui.design/blog/4-rules-intuitive-ux.html"
+    },
+    "15": {
+        "news": "The Restaurant of Mistaken Orders",
+        "link": "http://www.mistakenorders.com/en/home.html"
+    },
+    "16": {
+        "news": "Rashomon of Disclosure",
+        "link": "http://addxorrol.blogspot.com/2019/08/rashomon-of-disclosure.html"
+    },
+    "17": {
+        "news": "Early Years of Computer Gaming: Steve Russell and Nolan Bushnell (2002) [video]",
+        "link": "https://www.youtube.com/watch?v=FyHbzhtrP0w?"
+    },
+    "18": {
+        "news": "In Amazon\u2019s Bookstore, Orwell Gets a Rewrite",
+        "link": "https://www.nytimes.com/2019/08/19/technology/amazon-orwell-1984.html"
+    },
+    "19": {
+        "news": "Nigerian Teens Are Making Sci-Fi Shorts with Slick Visual Effects",
+        "link": "https://kottke.org/19/08/these-nigerian-teens-are-making-sci-fi-shorts-with-slick-visual-effects"
+    },
+    "20": {
+        "news": "Rendering on the Web",
+        "link": "https://developers.google.com/web/updates/2019/02/rendering-on-the-web"
+    },
+    "21": {
+        "news": "Portugal trials use of goats to clear vegetation for reduction of wild fire risk",
+        "link": "https://www.nytimes.com/2019/08/17/world/europe/portugal-wildfires-goats-climate-change.html"
+    },
+    "22": {
+        "news": "Programming as Theory Building (1985) [pdf]",
+        "link": "http://pages.cs.wisc.edu/~remzi/Naur.pdf"
+    },
+    "23": {
+        "news": "Traits of Serverless Architecture",
+        "link": "https://www.thoughtworks.com/insights/blog/traits-serverless-architecture"
+    },
+    "24": {
+        "news": "Mistakes to Avoid When Buying a MicroSD Card (2018)",
+        "link": "https://www.makeuseof.com/tag/5-mistakes-avoid-buying-next-microsd-card/"
+    },
+    "25": {
+        "news": "Hacking Image Interpolation for Fun and Profit",
+        "link": "https://peterhrynkow.com/performance/2019/01/13/blowing-up-images-to-make-them-small.html?hn=1"
+    },
+    "26": {
+        "news": "A parrot has a question for humans",
+        "link": "http://nautil.us/issue/75/story/the-great-silence"
+    },
+    "27": {
+        "news": "The World's Largest Submarine: The Soviet Union's Pr. 941 Typhoon SSBN (2014)",
+        "link": "http://imgur.com/a/xi3P3"
+    },
+    "28": {
+        "news": "What is Haberman?",
+        "link": "https://regexking.info/2019/08/05/haberman.html"
+    },
+    "29": {
+        "news": "Handler beliefs affect scent detection dog outcomes (2011)",
+        "link": "https://link.springer.com/article/10.1007%2Fs10071-010-0373-2"
+    },
+    "30": {
+        "news": "The Lost City of Heracleion",
+        "link": "https://daily.jstor.org/the-lost-city-of-heracleion/"
+    }
+}
